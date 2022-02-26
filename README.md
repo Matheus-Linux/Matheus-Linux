@@ -3,5 +3,5 @@
 
 - 🔭 Hoje trabalho como Analista de Suporte 
 - 🌱 Atualmente estudando Servidores Linux/Windows
-- 📫 Contat: matheuspro1@hotmail.com
+- 📫 Contato: matheuspro1@hotmail.com
 
