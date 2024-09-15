@@ -2,6 +2,6 @@
 
 
 - 🔭 Hoje trabalho como Analista de Suporte 
-- 🌱 Atualmente estudando Servidores Linux/Windows
+- 🌱 Atualmente estudando Docker/Kubernetes
 - 📫 Contato: matheuspro1@hotmail.com
 
