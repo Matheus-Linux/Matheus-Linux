@@ -1,4 +1,4 @@
-### Olá me chamo Matheus Alexandre, sou apaixonado por Infraestrutura, Redes e principalmente Linux 
+### Olá me chamo Matheus Alexandre.Sou apaixonado por Infraestrutura, Redes e principalmente Linux 
 
 
 - 🔭 Hoje trabalho como Analista de Infraestrutura 
